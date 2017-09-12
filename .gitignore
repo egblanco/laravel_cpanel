@@ -4,3 +4,6 @@
 Homestead.yaml
 Homestead.json
 .env
+.vagrant
+.idea/
+.DS_Store
